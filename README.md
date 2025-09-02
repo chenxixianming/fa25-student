@@ -1,10 +1,16 @@
 # UC Berkeley CS 189/289A: Intro to Machine Learning (Fall 2025)
 
-<p align="center"><img src="189_logo.png" alt="CS 189 Logo" width="50%"/></p>
-
-Course materials and student resources for CS 189/289A.
-
-- Course website: [eecs189.org/fa25](https://eecs189.org/fa25/)
+<table>
+  <tr>
+    <td>
+      <p>Course materials and student resources for CS 189/289A.</p>
+      <p>Course website: <a href="https://eecs189.org/fa25/">eecs189.org/fa25</a></p>
+    </td>
+    <td align="center" width="35%">
+      <img src="189_logo.png" alt="CS 189 Logo" width="55%"/>
+    </td>
+  </tr>
+</table>
 
 ## Repository Structure
 
