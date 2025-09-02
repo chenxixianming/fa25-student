@@ -15,4 +15,4 @@ huggingface_hub[cli,torch]
 gradio
 tiktoken
 seaborn
-kaleido>=1.0.0
+kaleido==0.2.1

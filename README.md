@@ -24,11 +24,3 @@
 ```bash
 pip install -r requirements.txt
 ```
-
-- Plotly image export (local runs only):
-  - Default in this repo (`kaleido<1.0`): works without Chrome.
-  - If you upgrade to `kaleido>=1.0`, install Chrome once:
-```bash
-kaleido_get_chrome
-```
-  - On Google Colab, no extra steps are needed; Plotly export works out of the box.
