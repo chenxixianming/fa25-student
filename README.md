@@ -16,7 +16,7 @@
 
 - [lec](lec/): lecture demo notebooks
 - [hw](hw/): homeworks
-- [dis](dis/): discussion worksheets and notebooks
+- [disc](disc/): discussion worksheets and notebooks
 
 ## Setup
 
